@@ -28,7 +28,7 @@ To get started with the application, follow these steps:
 
 This project is license-free, meaning you can use, modify, and distribute it without any restrictions.
 
-**Contributing**
+**Acknowledgments**
 ------------
 
-Contributions are welcome! If you'd like to contribute to the project, please fork the repository and submit a pull request.
+* [Bootstrap Icons](https://icons.getbootstrap.com/): This project uses Bootstrap Icons, a free and open-source icon library.
